@@ -614,6 +614,10 @@ video {
   margin-top: 3%;
 }
 
+.mt-\[4\%\] {
+  margin-top: 4%;
+}
+
 .block {
   display: block;
 }
@@ -682,6 +686,10 @@ video {
   width: 25%;
 }
 
+.w-\[24\%\] {
+  width: 24%;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -719,6 +727,10 @@ video {
 }
 
 .border {
+  border-width: 1px;
+}
+
+.border-\[1px\] {
   border-width: 1px;
 }
 
@@ -794,8 +806,67 @@ video {
   padding-right: 1.75rem;
 }
 
+.px-\[\] {
+  padding-left: ;
+  padding-right: ;
+}
+
+.px-\[10\] {
+  padding-left: 10;
+  padding-right: 10;
+}
+
+.px-\[10\%\] {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 .pb-\[10px\] {
   padding-bottom: 10px;
+}
+
+.pt-\[\] {
+  padding-top: ;
+}
+
+.pt-\[30px\] {
+  padding-top: 30px;
+}
+
+.pb-\[\] {
+  padding-bottom: ;
+}
+
+.pb-\[30px\] {
+  padding-bottom: 30px;
+}
+
+.pl-\[\] {
+  padding-left: ;
+}
+
+.pl-\[10px\] {
+  padding-left: 10px;
+}
+
+.pr-\[10px\] {
+  padding-right: 10px;
+}
+
+.pl-\[20px\] {
+  padding-left: 20px;
+}
+
+.pr-\[20px\] {
+  padding-right: 20px;
+}
+
+.pr-\[30px\] {
+  padding-right: 30px;
+}
+
+.pl-\[30px\] {
+  padding-left: 30px;
 }
 
 .text-center {
